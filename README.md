@@ -102,4 +102,4 @@ MIT
 
 This app was fully **Vibe Coded** using [Claude Sonnet 4.6](https://claude.ai).
 
-Это приложение полностью создано в стиле **Vibe Coding** с использованием [Claude Sonnet 4.6](https://claude.ai).
+Это приложение полностью **Vibe Coded** с использованием [Claude Sonnet 4.6](https://claude.ai).
