@@ -8,7 +8,7 @@
 
 ## 🇬🇧 English
 
-A lightweight desktop tool for analyzing the rhythmic structure of audio files.  
+A tool for analyzing your music before adding it to **Dead as Disco**.  
 Supports **MP3, WAV, FLAC, OGG, AAC, M4A** and more.
 
 ### 📥 Download
@@ -54,7 +54,7 @@ MIT
 
 ## 🇷🇺 Русский
 
-Лёгкий десктопный инструмент для анализа ритмической структуры аудиофайлов.  
+Инструмент для анализа своей музыки перед добавлением в **Dead as Disco**.  
 Поддерживает **MP3, WAV, FLAC, OGG, AAC, M4A** и другие форматы.
 
 ### 📥 Скачать
